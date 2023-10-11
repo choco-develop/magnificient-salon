@@ -259,7 +259,7 @@ section+section{
 }
 
 .color{
-    background-image: url(haircutandmore.jpg);
+    background-image: url(../img/haircutandmore.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
